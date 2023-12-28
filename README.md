@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rickardbrannvall
 - 👀 I’m interested in machine learning and privacy preserving technologies.
-- 🌱 I’m currently learning Rust programming language and Homomorphic Encryption.
-- 💞️ I’m looking to collaborate on ML applications for data center control applications and privacy preservation.
+- 🌱 I’m currently learning more about different inference attacks against AI systems.
+- 💞️ I’m looking to collaborate on applications of Privacy Preserving Machine Learning.
 - 📫 Reach me at www.ri.se/en/person/rickard-brannvall
 
 <!---
